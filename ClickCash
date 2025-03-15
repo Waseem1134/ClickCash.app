@@ -1,0 +1,7 @@
+
+│── server.js            (Main Server File)
+│── package.json         (Project Dependencies)
+│── views/
+│   ├── index.ejs        (Main HTML Page)
+│── public/
+│   ├── styles.css       (CSS Stylesheet)
